@@ -86,4 +86,4 @@ _이텔릭_
 다음 홈페이지 : <https://daum.net/>
 
 ### 이미지(images)
-![naver](https://www.naver.com/)
+![naver](https://i1.ruliweb.com/img/22/08/07/18275e0599a405c6e.jpg)
